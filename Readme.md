@@ -8,8 +8,8 @@
 <details>
   <summary>:zap: <b>GitHub stats</b></summary>
   <p>
-   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azamtoiri&show_icons=true&theme=synthwave" />
-   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamtoiri&layout=compact&theme=synthwave" />  
+   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azamtoiri&show_icons=true&theme=onedark" />
+   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamtoiri&layout=compact&theme=onedark" />  
    <br>
    <img align="middle" src="https://metrics.lecoq.io/azamtoiri" />
   </p>
