@@ -10,10 +10,12 @@ Find me on [Telegram](https://t.me/spike_xs) or [Vk](https://vk.com/azamtoiri)
 <p>
     <img src="https://komarev.com/ghpvc/?username=azamtoiri&label=Profile%20views&color=9834eb&style=flat" alt="azamtoiri" />
 </p>
-
+<details>
+  <summary>:zap: <b>GitHub stats</b></summary>
 <p>
     <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azamtoiri&show_icons=true&theme=tokyonight" />
     <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamtoiri&layout=compact&theme=tokyonight" />  
     <br>
     <img align="middle" src="https://metrics.lecoq.io/azamtoiri" />
 </p>
+</details>
