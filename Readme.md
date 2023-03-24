@@ -5,7 +5,7 @@
     <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-Find me on [Telegram](https://t.me/spike_xs) or [Vk](https://vk.com/azamtoiri)
+Find me on [Telegram](https://t.me/azamtoiri_work) or [Vk](https://vk.com/azamtoiri)
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=azamtoiri&label=Profile%20views&color=9834eb&style=flat" alt="azamtoiri" />
