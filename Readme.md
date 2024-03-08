@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Azam Toiri</h1>
-<h3 align="center">Future Python Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 <p align="center">
     <img width="600" src="assets/github-snake.svg" alt="snake"/>
