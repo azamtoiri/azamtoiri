@@ -48,7 +48,7 @@ At the same time, I upload videos on YouTube and teach students programming.
 <details align="left">
   <summary><h2><b>⚡ GitHub stats</b></h2></summary>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamtoiri&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=azamtoiri&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
@@ -66,10 +66,10 @@ At the same time, I upload videos on YouTube and teach students programming.
   </tr>
   <tr>
    <td>
-     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/profile.svg">
+     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/profile.svg">
    </td>
    <td>
-     <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/repositories.svg">
+     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/repositories.svg">
    </td>
   </tr>
   <tr>
@@ -78,10 +78,10 @@ At the same time, I upload videos on YouTube and teach students programming.
   </tr>
   <tr>
     <td align="center">
-      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/isocalendar.svg">
+      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/isocalendar.svg">
     </td>
     <td>
-      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/languages.svg">
+      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/languages.svg">
     </td>
   </tr>
   <tr>
@@ -90,10 +90,10 @@ At the same time, I upload videos on YouTube and teach students programming.
   </tr>
   <tr>
    <td align="center">
-    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/code_snippet.svg">
+    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/code_snippet.svg">
    </td>
    <td align="center">
-    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/starred_repos.svg">
+    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/starred_repos.svg">
    </td>
   </tr>
   <tr>
@@ -102,10 +102,10 @@ At the same time, I upload videos on YouTube and teach students programming.
   </tr>
   <tr>
    <td align="center">
-    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/habits.svg">
+    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/habits.svg">
    </td>
    <td align="center">
-     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/wakatime.svg">
+     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/wakatime.svg">
    </td>
   </tr>
  </table>
