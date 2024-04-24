@@ -55,3 +55,58 @@ At the same time, I upload videos on YouTube and teach students programming.
     <img align="middle" src="https://metrics.lecoq.io/azamtoiri" />
 </p>
 </details>
+
+<details>
+ <summary> <b>📌 Detailed metrics</b></summary>
+ 
+ <table>
+  <tr>
+    <th>🙋 Profile Details</th>
+    <th>🧮 Repositories traffic</th>
+  </tr>
+  <tr>
+   <td>
+     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/profile.svg">
+   </td>
+   <td>
+     <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/repositories.svg">
+   </td>
+  </tr>
+  <tr>
+    <th>📅 Isometric commit calendar</th>
+    <th>🈷️ Most used languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/isocalendar.svg">
+    </td>
+    <td>
+      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/languages.svg">
+    </td>
+  </tr>
+  <tr>
+   <th>♐ Code snippet of the day</th>
+   <th>🌟 Recently starred repositories</th>
+  </tr>
+  <tr>
+   <td align="center">
+    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/code_snippet.svg">
+   </td>
+   <td align="center">
+    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/starred_repos.svg">
+   </td>
+  </tr>
+  <tr>
+    <th>💡 Coding habits</th>
+    <th>⏰ WakaTime plugin</th>
+  </tr>
+  <tr>
+   <td align="center">
+    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/habits.svg">
+   </td>
+   <td align="center">
+     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/master/metrics/wakatime.svg">
+   </td>
+  </tr>
+ </table>
+</details>
