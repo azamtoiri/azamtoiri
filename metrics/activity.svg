@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" class="">
     <defs>
         <style/>
     </defs>
@@ -22,18 +22,37 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">azamtoiri/student_control</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">azamtoiri/Account-Creator</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3100960</div>
-                                        <div class="message">Delete .github/workflows directory</div>
+                                        <div class="sha">#8c1067b</div>
+                                        <div class="message">Merge pull request #6 from azamtoiri/dependabot/pip/idna-3.7
+
+build(deps): bump idna from 3.4 to 3.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e30f11</div>
+                                        <div class="message">build(deps): bump idna from 3.4 to 3.7
+
+Bumps [idna](https://github.com/kjd/idna) from 3.4 to 3.7.
+- [Release notes](https://github.com/kjd/idna/releases)
+- [Changelog](https://github.com/kjd/idna/blob/master/HISTORY.rst)
+- [Commits](https://github.com/kjd/idna/compare/v3.4...v3.7)
+
+---
+updated-dependencies:
+- dependency-name: idna
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Apr 2024, 19:03:03</div>
+                                <div class="timestamp">25 Apr 2024, 08:28:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -43,18 +62,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">azamtoiri/student_control</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">azamtoiri/Account-Creator</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a01a6c6</div>
-                                        <div class="message">Create pylint.yml</div>
+                                        <div class="sha">#ec978e7</div>
+                                        <div class="message">Merge pull request #5 from azamtoiri/dependabot/pip/certifi-2023.7.22
+
+build(deps): bump certifi from 2022.9.24 to 2023.7.22</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8702149</div>
+                                        <div class="message">build(deps): bump certifi from 2022.9.24 to 2023.7.22
+
+Bumps [certifi](https://github.com/certifi/python-certifi) from 2022.9.24 to 2023.7.22.
+- [Commits](https://github.com/certifi/python-certifi/compare/2022.09.24...2023.07.22)
+
+---
+updated-dependencies:
+- dependency-name: certifi
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Apr 2024, 19:01:03</div>
+                                <div class="timestamp">25 Apr 2024, 08:28:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -71,11 +107,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b6efac</div>
-                                        <div class="message">Update Readme.md</div>
+                                        <div class="sha">#689d503</div>
+                                        <div class="message">Update update_stats.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Apr 2024, 16:49:26</div>
+                                <div class="timestamp">25 Apr 2024, 08:27:35</div>
                             </section>
                         </div>
                     </section>
