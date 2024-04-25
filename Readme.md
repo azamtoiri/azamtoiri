@@ -110,3 +110,10 @@ At the same time, I upload videos on YouTube and teach students programming.
   </tr>
  </table>
 </details>
+
+
+<details>
+ <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
