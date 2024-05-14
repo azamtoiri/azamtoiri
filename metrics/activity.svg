@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
     <defs>
         <style/>
     </defs>
@@ -22,43 +22,83 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
+                                        <span class="repo">Artemprod/aipo_insighter_worker</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6fa8bd</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/Artemprod/aipo_insighter_worker into dev</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 May 2024, 14:06:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
                                         <span class="repo">azamtoiri/aipo_insighter_worker</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f84a7f4</div>
-                                        <div class="message">create postgress datastructure</div>
+                                        <div class="sha">#43e35a3</div>
+                                        <div class="message">Merge pull request #4 from Artemprod/dev
+
+Dev</div>
                                     </div>
-                                </div>
-                                <div class="timestamp">11 May 2024, 16:00:35</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">azamtoiri/aipo_insighter_worker</span>
+                                    <div class="commit">
+                                        <div class="sha">#22b1123</div>
+                                        <div class="message">Merge pull request #3 from Artemprod/dev_repositories
+
+api models and listen app</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3ba0a5f</div>
+                                        <div class="message">api models and listen app</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e932c0</div>
+                                        <div class="message">Merge pull request #2 from Artemprod/dev
+
+Dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b53a68</div>
+                                        <div class="message">Merge pull request #1 from Artemprod/dev_repositories
+
+Develope database logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c81380</div>
+                                        <div class="message">add migration ( todo dispose databse url, make env)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a9eb83</div>
+                                        <div class="message">add migration ( todo dispose databse url, make env)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97172b5</div>
+                                        <div class="message">create repositories</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb7295</div>
+                                        <div class="message">add buisness models</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#5e92af5</div>
                                         <div class="message">Update testdate_insertion_script.py</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#f84a7f4</div>
-                                        <div class="message">create postgress datastructure</div>
-                                    </div>
                                 </div>
-                                <div class="timestamp">11 May 2024, 15:59:03</div>
+                                <div class="timestamp">14 May 2024, 14:02:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -69,17 +109,18 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">azamtoiri/DockerInstall</span>
+                                        <span class="repo">Artemprod/aipo_insighter_tg_bot</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61977f4</div>
-                                        <div class="message">Create LICENSE</div>
+                                        <div class="sha">#e5405de</div>
+                                        <div class="message">Test contribute commit
+azamtoiri</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 21:42:04</div>
+                                <div class="timestamp">14 May 2024, 14:00:21</div>
                             </section>
                         </div>
                     </section>
