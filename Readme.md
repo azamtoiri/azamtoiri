@@ -1,16 +1,15 @@
 <h1 align="center">Hello! I'm Azam Toiri</h1>
 <h3 align="center">Python Developer</h3>
 
-<p align="center">
-    <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 I'm a backend developer from Russia
 
 Find me on [Telegram](https://t.me/azamtoiri_work) or [Vk](https://vk.com/azamtoiri)
 
 I'm interested in web development, games, DataScience, ML.
-At the same time, I upload videos on YouTube and teach students programming.
+* Python is a developer with 4+ years of experience(NONECOM): creating APIs (Django, Flask), optimizing applications, working with databases (SQL, NoSQL), CI/CD.
+* Developed 5+ RESTful API, improving the interaction of microservices and reducing response time by 30%.
+* Created 10+ parsers (BeautifulSoup, Selenium), automating data collection and speeding up processing by 40%.
+* Implemented Docker and CI/CD (GitHub Actions), which reduced the time for setting up the environment by 50%.
 
 ![workspace](https://img.shields.io/static/v1?label=&message=workspace:&color=555&style=flat-square)
 [![fedora](https://img.shields.io/static/v1?logo=fedora&label=&message=Fedora&color=111&logoColor=AA&style=flat-square)](https://fedoraproject.org/)
@@ -19,6 +18,7 @@ At the same time, I upload videos on YouTube and teach students programming.
 <br>
 ![editors](https://img.shields.io/static/v1?label=&message=editors:&color=555&style=flat-square)
 ![pycharm](https://img.shields.io/static/v1?logo=pycharm&label=&message=Pycharm&color=111&logoColor=AA&style=flat-square)
+![GoLang](https://img.shields.io/static/v1?logo=go&label=&message=GoLang&color=111&logoColor=AA&style=flat-square)
 <br>
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
@@ -36,134 +36,11 @@ At the same time, I upload videos on YouTube and teach students programming.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,go,html,css,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,linux,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,django,docker,git&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,postman,powershell,vscode,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=idea,postman,vscode,&perline=7" />
     <br>
   </p>
-</details>
-
-<details align="left">
-  <summary><h2><b>⚡ GitHub stats</b></h2></summary>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamtoiri&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=azamtoiri&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <br>
-    <img align="middle" src="https://metrics.lecoq.io/azamtoiri" />
-</p>
-</details>
-
-<details>
- <summary> <b>📌 Detailed metrics</b></summary>
- 
- <table>
-  <tr>
-    <th>🙋 Profile Details</th>
-    <th>🧮 Repositories traffic</th>
-  </tr>
-  <tr>
-   <td>
-     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/profile.svg">
-   </td>
-   <td>
-     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/repositories.svg">
-   </td>
-  </tr>
-  <tr>
-    <th>📅 Isometric commit calendar</th>
-    <th>🈷️ Most used languages</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/isocalendar.svg">
-    </td>
-    <td>
-      <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/languages.svg">
-    </td>
-  </tr>
-  <tr>
-   <th>♐ Code snippet of the day</th>
-   <th>🌟 Recently starred repositories</th>
-  </tr>
-  <tr>
-   <td align="center">
-    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/code_snippet.svg">
-   </td>
-   <td align="center">
-    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/starred_repos.svg">
-   </td>
-  </tr>
-  <tr>
-    <th>💡 Coding habits</th>
-    <th>⏰ WakaTime plugin</th>
-  </tr>
-  <tr>
-   <td align="center">
-    <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/habits.svg">
-   </td>
-   <td align="center">
-     <img alt="" width="400" src="https://github.com/azamtoiri/azamtoiri/blob/main/metrics/wakatime.svg">
-   </td>
-  </tr>
- </table>
-</details>
-
-
-<details>
- <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                616 commits         █████████░░░░░░░░░░░░░░░░   34.39 % 
-🌃 Evening                762 commits         ███████████░░░░░░░░░░░░░░   42.55 % 
-🌙 Night                  170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  334 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Wednesday                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Friday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Saturday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sunday                   341 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   21 repos            █████████████░░░░░░░░░░░░   53.85 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-
-
- Last Updated on 25/04/2024 08:29:32 UTC
-<!--END_SECTION:waka-->
 </details>
