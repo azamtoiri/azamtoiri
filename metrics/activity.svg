@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d069086</div>
-                                        <div class="message">форма подтверждения кода</div>
+                                        <div class="sha">#c07847e</div>
+                                        <div class="message">правки sql</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Nov 2024, 10:23:39</div>
+                                <div class="timestamp">14 Nov 2024, 11:53:51</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,11 +50,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c769261</div>
-                                        <div class="message">добавляю подключение ботов</div>
+                                        <div class="sha">#8d78ec8</div>
+                                        <div class="message">sql</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Nov 2024, 09:56:49</div>
+                                <div class="timestamp">14 Nov 2024, 11:47:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -71,11 +71,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8cdc429</div>
-                                        <div class="message">названия форм</div>
+                                        <div class="sha">#aa9ffa0</div>
+                                        <div class="message">украшательства интерфейса</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Nov 2024, 09:48:50</div>
+                                <div class="timestamp">14 Nov 2024, 11:38:37</div>
                             </section>
                         </div>
                     </section>
