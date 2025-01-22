@@ -3,7 +3,7 @@
 
 I'm a backend developer from Russia
 
-Find me on [Telegram](https://t.me/azamtoiri_work) or [Vk](https://vk.com/azamtoiri)
+Find me on [Telegram](https://t.me/azamtoiri) or [Vk](https://vk.com/azamtoiri)
 
 I'm interested in web development, games, DataScience, ML.
 * Python is a developer with 4+ years of experience(NONECOM): creating APIs (Django, Flask), optimizing applications, working with databases (SQL, NoSQL), CI/CD.
