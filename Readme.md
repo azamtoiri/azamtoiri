@@ -9,7 +9,7 @@
 </p>
 </h4>
 
-Software Engineer (Backend) with commercial experience since 2018: 
+Software Engineer (Backend) with commercial experience since 2020: 
 * Designing and building scalable backend systems, APIs, and services; application optimization; working with SQL and NoSQL databases; CI/CD and infrastructure automation.
 * Built 10+ web scrapers and parsers (BeautifulSoup, Selenium), automating data collection and accelerating data processing by up to 40%.
 * Implemented Docker-based environments and CI/CD pipelines (GitHub Actions), reducing environment setup and deployment time by 50%.
